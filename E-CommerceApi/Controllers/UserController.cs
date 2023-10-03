@@ -6,6 +6,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace E_CommerceApi.Controllers
 {
+
+    [Route("api/[controller]")]
+    [ApiController]
     public class UserController : BaseController
     {
         private readonly UserService _userService;
@@ -17,7 +20,7 @@ namespace E_CommerceApi.Controllers
 
         //api/user
         [HttpPost ("[Action]")]
-        public async Task<IActionResult> RegisterUser(CreateUserDto createUserDto)
+        public async Task<IActionResult> RegisterUser( CreateUserDto createUserDto)
         {
             return ActionResultInstance(await _userService.CreateUserAsync(createUserDto));
         }

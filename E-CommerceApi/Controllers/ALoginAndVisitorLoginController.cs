@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace E_CommerceApi.Controllers
 {
     [Route("api/[controller]/[action]")]
+    [ApiController]
 
     public class ALoginAndVisitorLoginController : BaseController
     {

@@ -54,10 +54,7 @@ namespace Application.Features.Baskets.Commands.Delete
 
                 var basketItem = await _basketRepository.GetByIdAsync( request.ProductId);
                
-               _basketRepository.Remove(basketItem);   
-
-
-                
+               _basketRepository.Remove(basketItem);               
 
                 
                 

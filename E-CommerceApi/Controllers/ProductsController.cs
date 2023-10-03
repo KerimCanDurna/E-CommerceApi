@@ -21,7 +21,7 @@ namespace E_CommerceApi.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetList(int categoryID)
+        public async Task<IActionResult> GetList([FromBody] int categoryID)
         {
             GetListProductQuery query = new() { CategoryId = categoryID };
             var  response = await Mediator.Send(query);

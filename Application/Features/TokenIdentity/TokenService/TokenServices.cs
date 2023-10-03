@@ -34,15 +34,16 @@ namespace Application.Features.TokenIdentity.TokenService
             return Convert.ToBase64String(numberByte);
         }
 
-        private IEnumerable<Claim> GetClaims(User user)
+        private IEnumerable<Claim> GetClaims(User user , List<String> audiences)
         {
             var userList = new List<Claim> {
             new Claim(ClaimTypes.NameIdentifier,user.Id),
             new Claim(JwtRegisteredClaimNames.Email, user.Email),
             new Claim(ClaimTypes.Name,user.Name),
-
+            new Claim(JwtRegisteredClaimNames.Jti,Guid.NewGuid().ToString())  // token ID
             };
 
+            userList.AddRange(audiences.Select(x => new Claim(JwtRegisteredClaimNames.Aud, x)));
 
 
             return userList;
@@ -70,8 +71,8 @@ namespace Application.Features.TokenIdentity.TokenService
             JwtSecurityToken jwtSecurityToken = new JwtSecurityToken(
                 issuer: _tokenOption.Issuer,
                 expires: accessTokenExpiration,
-                 notBefore: DateTime.UtcNow,
-                 claims: GetClaims(user),
+                 notBefore: DateTime.UtcNow,  // Tokenen alındığı saaaten önce geçersiz olsun token ömrü notbeore ile accessTokenExpiration arasında olacak 
+                 claims: GetClaims(user,_tokenOption.Audience),
                  signingCredentials: signingCredentials);
 
             var handler = new JwtSecurityTokenHandler();
@@ -100,7 +101,7 @@ namespace Application.Features.TokenIdentity.TokenService
             JwtSecurityToken jwtSecurityToken = new JwtSecurityToken(
                 issuer: _tokenOption.Issuer,
                 expires: accessTokenExpiration,
-                 notBefore: DateTime.Now,
+                 notBefore: DateTime.Now,  // Tokenen alındığı saaaten önce geçersiz olsun token ömrü notbeore ile accessTokenExpiration arasında olacak 
                  claims: GetClaimsByClient(client),
                  signingCredentials: signingCredentials);
 

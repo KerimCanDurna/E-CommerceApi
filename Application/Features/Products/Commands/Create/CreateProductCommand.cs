@@ -43,6 +43,7 @@ public class CreateProductCommand : IRequest<CreatedProductResponse>
             var product = _mapper.Map<Product>(request);
             product.DeletedDate = null;
             product.CreatedDate = DateTime.UtcNow;
+            product.IsActive = true;
             await _productRepository.AddAsync(product);
 
             CreatedProductResponse createproductdResponse = _mapper.Map<CreatedProductResponse>(product);

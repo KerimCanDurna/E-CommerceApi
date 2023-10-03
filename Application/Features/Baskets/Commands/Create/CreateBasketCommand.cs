@@ -2,9 +2,11 @@
 using Application.Features.Products.Commands.Create;
 using AutoMapper;
 using Domain.AgregateModels.CartModel;
+using Domain.AgregateModels.UserModel;
 using Domain.IServices.IRepositories;
 using Domain.IServices.ISharedIdentity;
 using MediatR;
+using Microsoft.AspNetCore.Identity;
 
 namespace Application.Features.Baskets.Commands.Create
 {
@@ -26,18 +28,18 @@ namespace Application.Features.Baskets.Commands.Create
             private readonly IMapper _mapper;
             private readonly IBasketRepository<Basket> _basketRepository1;
             private readonly BasketDto _basket;
+            private readonly UserManager<User> _userManager;
 
-          
 
-            public CreateBasketCommandHandler(IBasketRepository<BasketItem> basketRepository, IMapper mapper, ISharedIdentityService sharedIdentityService, IBasketRepository<Basket> basketRepository1, BasketDto basket)
+
+            public CreateBasketCommandHandler(IBasketRepository<BasketItem> basketRepository, IMapper mapper, ISharedIdentityService sharedIdentityService, IBasketRepository<Basket> basketRepository1, BasketDto basket, UserManager<User> userManager)
             {
                 _basketRepository = basketRepository;
                 _mapper = mapper;
                 _sharedIdentityService = sharedIdentityService;
                 _basketRepository1 = basketRepository1;
                 _basket = basket;
-
-                
+                _userManager = userManager;
             }
 
             public async Task<BasketItemDto>? Handle(CreateBasketCommand request, CancellationToken cancellationToken)
@@ -46,6 +48,7 @@ namespace Application.Features.Baskets.Commands.Create
 
                 var basketItem = _mapper.Map<BasketItem>(request);
                 basketItem.CreatedDate = DateTime.UtcNow;
+                basketItem.IsActive = true;
                  
                 // Aktif Sepet var mı kontrol etttik
                 var search = _basketRepository1.Where(x => x.IsActive == true).SingleOrDefault();
@@ -54,9 +57,8 @@ namespace Application.Features.Baskets.Commands.Create
                     _basket.CreatedDate = DateTime.UtcNow;
                     _basket.IsActive = true;
 
-
-
-                    var userid = _sharedIdentityService.GetUserId; // misafir oturumu mu yoksa uye oturumu mu token uzerinden kontrol eetik 
+                     
+                    // var userid = _sharedIdentityService.GetUserId; // misafir oturumu mu yoksa uye oturumu mu token uzerinden kontrol eetik 
                     if (userid == null)
                     {
                         _basket.UserId = null;
@@ -75,7 +77,7 @@ namespace Application.Features.Baskets.Commands.Create
                 basketItem.BasketId = check.Id ;
 
                 //Sepetteki ürünü konrol ettik 
-                var control = _basketRepository.Where(x=>x.ProductId == basketItem.ProductId).SingleOrDefault();
+                var control = _basketRepository.Where(x=>x.ProductId == basketItem.ProductId && x.IsActive== true).SingleOrDefault();
                 if (control != null)
                 {
                     if(basketItem.Quantity < control.Quantity) basketItem.Quantity = control.Quantity;

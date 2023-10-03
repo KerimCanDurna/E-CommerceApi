@@ -9,7 +9,8 @@ using Microsoft.AspNetCore.Mvc;
 namespace E_CommerceApi.Controllers
 {
    [Authorize]
-    
+    [Route("api/[controller]/[action]")]
+    [ApiController]
     public class BasketController : BaseController
     {
         [HttpGet]
