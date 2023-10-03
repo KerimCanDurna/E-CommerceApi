@@ -57,15 +57,15 @@ namespace Application.Features.Baskets.Commands.Create
                     _basket.CreatedDate = DateTime.UtcNow;
                     _basket.IsActive = true;
 
-                     
-                    // var userid = _sharedIdentityService.GetUserId; // misafir oturumu mu yoksa uye oturumu mu token uzerinden kontrol eetik 
-                    if (userid == null)
-                    {
-                        _basket.UserId = null;
-                        var basket1 = _mapper.Map<Basket>(_basket);
-                        _basketRepository1.AddAsync(basket1);
-                    }
-                    _basket.UserId = userid.ToString();
+                   
+                    //// var userid = _sharedIdentityService.GetUserId; // misafir oturumu mu yoksa uye oturumu mu token uzerinden kontrol eetik 
+                    //if (userid == null)
+                    //{
+                    //    _basket.UserId = null;
+                    //    var basket1 = _mapper.Map<Basket>(_basket);
+                    //    _basketRepository1.AddAsync(basket1);
+                    //}
+                    //_basket.UserId = userid.ToString();
 
 
                     var basket = _mapper.Map<Basket>(_basket);
