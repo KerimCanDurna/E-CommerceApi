@@ -13,12 +13,12 @@ namespace Application.Features.Products.Commands.Delete
     {
         public int Id { get; set; }
 
-        public class DeleteBrandCommandHandler : IRequestHandler<DeleteProductCommand, DeleteProductResponse>
+        public class DeleteProductCommandHandler : IRequestHandler<DeleteProductCommand, DeleteProductResponse>
         {
             private readonly IProductRepository _productRepository;
             private readonly IMapper _mapper;
 
-            public DeleteBrandCommandHandler(IProductRepository productRepository, IMapper mapper)
+            public DeleteProductCommandHandler(IProductRepository productRepository, IMapper mapper)
             {
                 _productRepository = productRepository;
                 _mapper = mapper;
@@ -28,8 +28,9 @@ namespace Application.Features.Products.Commands.Delete
                 var product = await _productRepository.GetAsync(predicate: b => b.Id == request.Id, cancellationToken: cancellationToken);
 
 
-
+                product.IsActive = false;
                 await _productRepository.DeleteAsync(product);
+                
 
                 var response = _mapper.Map<DeleteProductResponse>(product);
 

@@ -12,19 +12,16 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Features\SubCategories\Constants\" />
-    <Folder Include="Features\SubCategories\Rules\" />
-    <Folder Include="Features\ParentCategories\Constants\" />
-    <Folder Include="Features\ParentCategories\Rules\" />
+    <Folder Include="Features\Categories\Constants\" />
     <Folder Include="Features\Products\Constants\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
-    <PackageReference Include="EntityFramework" Version="6.4.4" />
     <PackageReference Include="EntityFrameworkCore.Query" Version="1.3.1.2" />
     <PackageReference Include="FluentValidation" Version="11.7.1" />
     <PackageReference Include="MediatR" Version="12.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
     <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="7.0.2" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.0.2" />
   </ItemGroup>

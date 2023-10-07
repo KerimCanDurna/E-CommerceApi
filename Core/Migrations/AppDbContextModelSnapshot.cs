@@ -33,6 +33,9 @@ namespace Core.Migrations
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("timestamp with time zone");
 
+                    b.Property<string>("GuestId")
+                        .HasColumnType("text");
+
                     b.Property<bool>("IsActive")
                         .HasColumnType("boolean");
 
@@ -43,6 +46,8 @@ namespace Core.Migrations
                         .HasColumnType("text");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("GuestId");
 
                     b.HasIndex("UserId");
 
@@ -84,7 +89,7 @@ namespace Core.Migrations
                     b.ToTable("BasketItems");
                 });
 
-            modelBuilder.Entity("Domain.AgregateModels.CategoriModel.ParentCategory", b =>
+            modelBuilder.Entity("Domain.AgregateModels.CategoriModel.Category", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -110,7 +115,8 @@ namespace Core.Migrations
                         .HasColumnName("Name");
 
                     b.Property<int?>("ParentCategoryId")
-                        .HasColumnType("integer");
+                        .HasColumnType("integer")
+                        .HasColumnName("ParentCategoryId");
 
                     b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("timestamp with time zone")
@@ -123,33 +129,89 @@ namespace Core.Migrations
 
                     b.HasIndex("ParentCategoryId");
 
-                    b.ToTable("ParentCategories", (string)null);
+                    b.ToTable("Categories", (string)null);
 
                     b.HasData(
                         new
                         {
                             Id = 1,
-                            CreatedDate = new DateTime(2023, 10, 1, 15, 14, 45, 456, DateTimeKind.Utc).AddTicks(6426),
-                            IsActive = false,
-                            Name = "Beyaz Eşya "
-                        },
-                        new
-                        {
-                            Id = 2,
-                            CreatedDate = new DateTime(2023, 10, 1, 15, 14, 45, 456, DateTimeKind.Utc).AddTicks(6431),
+                            CreatedDate = new DateTime(2023, 10, 6, 15, 25, 57, 146, DateTimeKind.Utc).AddTicks(6717),
                             IsActive = false,
                             Name = "Elektronik "
                         },
                         new
                         {
+                            Id = 2,
+                            CreatedDate = new DateTime(2023, 10, 6, 15, 25, 57, 146, DateTimeKind.Utc).AddTicks(6720),
+                            IsActive = false,
+                            Name = "BeyazEşya "
+                        },
+                        new
+                        {
                             Id = 3,
-                            CreatedDate = new DateTime(2023, 10, 1, 15, 14, 45, 456, DateTimeKind.Utc).AddTicks(6432),
+                            CreatedDate = new DateTime(2023, 10, 6, 15, 25, 57, 146, DateTimeKind.Utc).AddTicks(6807),
                             IsActive = false,
                             Name = "Mutfak "
+                        },
+                        new
+                        {
+                            Id = 4,
+                            CreatedDate = new DateTime(2023, 10, 6, 15, 25, 57, 146, DateTimeKind.Utc).AddTicks(6808),
+                            IsActive = false,
+                            Name = "Bilgisayar ",
+                            ParentCategoryId = 1
+                        },
+                        new
+                        {
+                            Id = 5,
+                            CreatedDate = new DateTime(2023, 10, 6, 15, 25, 57, 146, DateTimeKind.Utc).AddTicks(6810),
+                            IsActive = false,
+                            Name = "Tablet ",
+                            ParentCategoryId = 1
+                        },
+                        new
+                        {
+                            Id = 6,
+                            CreatedDate = new DateTime(2023, 10, 6, 15, 25, 57, 146, DateTimeKind.Utc).AddTicks(6812),
+                            IsActive = false,
+                            Name = "Buzdolabı ",
+                            ParentCategoryId = 2
+                        },
+                        new
+                        {
+                            Id = 7,
+                            CreatedDate = new DateTime(2023, 10, 6, 15, 25, 57, 146, DateTimeKind.Utc).AddTicks(6813),
+                            IsActive = false,
+                            Name = "Çamasır makinesi ",
+                            ParentCategoryId = 2
+                        },
+                        new
+                        {
+                            Id = 8,
+                            CreatedDate = new DateTime(2023, 10, 6, 15, 25, 57, 146, DateTimeKind.Utc).AddTicks(6815),
+                            IsActive = false,
+                            Name = "Tava ",
+                            ParentCategoryId = 3
+                        },
+                        new
+                        {
+                            Id = 9,
+                            CreatedDate = new DateTime(2023, 10, 6, 15, 25, 57, 146, DateTimeKind.Utc).AddTicks(6816),
+                            IsActive = false,
+                            Name = "NoteBook ",
+                            ParentCategoryId = 4
+                        },
+                        new
+                        {
+                            Id = 10,
+                            CreatedDate = new DateTime(2023, 10, 6, 15, 25, 57, 146, DateTimeKind.Utc).AddTicks(6817),
+                            IsActive = false,
+                            Name = "MasaÜstü ",
+                            ParentCategoryId = 4
                         });
                 });
 
-            modelBuilder.Entity("Domain.AgregateModels.CategoriModel.Product", b =>
+            modelBuilder.Entity("Domain.AgregateModels.ProductModel.Product", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -157,6 +219,10 @@ namespace Core.Migrations
                         .HasColumnName("Id");
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("integer")
+                        .HasColumnName("CategoryId");
 
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("timestamp with time zone")
@@ -187,17 +253,13 @@ namespace Core.Migrations
                         .HasColumnType("integer")
                         .HasColumnName("Stock");
 
-                    b.Property<int>("SubCategoryId")
-                        .HasColumnType("integer")
-                        .HasColumnName("SubCategoryId");
-
                     b.Property<DateTime?>("UpdatedDate")
                         .HasColumnType("timestamp with time zone")
                         .HasColumnName("UpdatedDate");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("SubCategoryId");
+                    b.HasIndex("CategoryId");
 
                     b.HasIndex(new[] { "Name" }, "UK_Products_Name")
                         .IsUnique();
@@ -208,144 +270,68 @@ namespace Core.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedDate = new DateTime(2023, 10, 1, 15, 14, 45, 456, DateTimeKind.Utc).AddTicks(6743),
+                            CategoryId = 10,
+                            CreatedDate = new DateTime(2023, 10, 6, 15, 25, 57, 146, DateTimeKind.Utc).AddTicks(6418),
                             IsActive = false,
                             Name = "asus Bilgisayar ",
                             Price = 1400m,
                             ProductDetail = "i5",
-                            Stock = 20,
-                            SubCategoryId = 1
+                            Stock = 20
                         },
                         new
                         {
                             Id = 2,
-                            CreatedDate = new DateTime(2023, 10, 1, 15, 14, 45, 456, DateTimeKind.Utc).AddTicks(6749),
-                            IsActive = false,
+                            CategoryId = 9,
+                            CreatedDate = new DateTime(2023, 10, 6, 15, 25, 57, 146, DateTimeKind.Utc).AddTicks(6424),
+                            IsActive = true,
                             Name = "AsusTablet ",
                             Price = 1400m,
                             ProductDetail = "i5",
-                            Stock = 20,
-                            SubCategoryId = 1
+                            Stock = 20
                         },
                         new
                         {
                             Id = 3,
-                            CreatedDate = new DateTime(2023, 10, 1, 15, 14, 45, 456, DateTimeKind.Utc).AddTicks(6751),
-                            IsActive = false,
+                            CategoryId = 6,
+                            CreatedDate = new DateTime(2023, 10, 6, 15, 25, 57, 146, DateTimeKind.Utc).AddTicks(6426),
+                            IsActive = true,
                             Name = "vestelBuzdolabı ",
                             Price = 1400m,
                             ProductDetail = "vestel",
-                            Stock = 20,
-                            SubCategoryId = 2
+                            Stock = 20
                         },
                         new
                         {
                             Id = 4,
-                            CreatedDate = new DateTime(2023, 10, 1, 15, 14, 45, 456, DateTimeKind.Utc).AddTicks(6752),
-                            IsActive = false,
+                            CategoryId = 7,
+                            CreatedDate = new DateTime(2023, 10, 6, 15, 25, 57, 146, DateTimeKind.Utc).AddTicks(6428),
+                            IsActive = true,
                             Name = "vestelÇamasır makinesi ",
                             Price = 1400m,
                             ProductDetail = "vewstel",
-                            Stock = 20,
-                            SubCategoryId = 2
+                            Stock = 20
                         },
                         new
                         {
                             Id = 5,
-                            CreatedDate = new DateTime(2023, 10, 1, 15, 14, 45, 456, DateTimeKind.Utc).AddTicks(6754),
-                            IsActive = false,
+                            CategoryId = 8,
+                            CreatedDate = new DateTime(2023, 10, 6, 15, 25, 57, 146, DateTimeKind.Utc).AddTicks(6429),
+                            IsActive = true,
                             Name = "teflonTava ",
                             Price = 1400m,
                             ProductDetail = "teflon",
-                            Stock = 20,
-                            SubCategoryId = 3
+                            Stock = 20
                         });
                 });
 
-            modelBuilder.Entity("Domain.AgregateModels.CategoriModel.SubCategory", b =>
+            modelBuilder.Entity("Domain.AgregateModels.UserModel.Guest", b =>
                 {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("integer")
-                        .HasColumnName("Id");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
-
-                    b.Property<DateTime>("CreatedDate")
-                        .HasColumnType("timestamp with time zone")
-                        .HasColumnName("CreatedDate");
-
-                    b.Property<DateTime?>("DeletedDate")
-                        .HasColumnType("timestamp with time zone")
-                        .HasColumnName("DeletedDate");
-
-                    b.Property<bool>("IsActive")
-                        .HasColumnType("boolean");
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("text")
-                        .HasColumnName("Name");
-
-                    b.Property<int?>("ParentCategoryId")
-                        .IsRequired()
-                        .HasColumnType("integer")
-                        .HasColumnName("ParentCategoryId");
-
-                    b.Property<DateTime?>("UpdatedDate")
-                        .HasColumnType("timestamp with time zone")
-                        .HasColumnName("UpdatedDate");
+                    b.Property<string>("Id")
+                        .HasColumnType("text");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("Name")
-                        .IsUnique();
-
-                    b.HasIndex("ParentCategoryId");
-
-                    b.ToTable("SubCategories", (string)null);
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            CreatedDate = new DateTime(2023, 10, 1, 15, 14, 45, 456, DateTimeKind.Utc).AddTicks(6935),
-                            IsActive = false,
-                            Name = "Bilgisayar ",
-                            ParentCategoryId = 2
-                        },
-                        new
-                        {
-                            Id = 2,
-                            CreatedDate = new DateTime(2023, 10, 1, 15, 14, 45, 456, DateTimeKind.Utc).AddTicks(6937),
-                            IsActive = false,
-                            Name = "Tablet ",
-                            ParentCategoryId = 2
-                        },
-                        new
-                        {
-                            Id = 3,
-                            CreatedDate = new DateTime(2023, 10, 1, 15, 14, 45, 456, DateTimeKind.Utc).AddTicks(6937),
-                            IsActive = false,
-                            Name = "Buzdolabı ",
-                            ParentCategoryId = 1
-                        },
-                        new
-                        {
-                            Id = 4,
-                            CreatedDate = new DateTime(2023, 10, 1, 15, 14, 45, 456, DateTimeKind.Utc).AddTicks(6939),
-                            IsActive = false,
-                            Name = "Çamasır makinesi ",
-                            ParentCategoryId = 1
-                        },
-                        new
-                        {
-                            Id = 5,
-                            CreatedDate = new DateTime(2023, 10, 1, 15, 14, 45, 456, DateTimeKind.Utc).AddTicks(6940),
-                            IsActive = false,
-                            Name = "Tava ",
-                            ParentCategoryId = 3
-                        });
+                    b.ToTable("Guests", (string)null);
                 });
 
             modelBuilder.Entity("Domain.AgregateModels.UserModel.User", b =>
@@ -371,6 +357,12 @@ namespace Core.Migrations
                         .HasColumnType("character varying(256)");
 
                     b.Property<bool>("EmailConfirmed")
+                        .HasColumnType("boolean");
+
+                    b.Property<string>("GuestId")
+                        .HasColumnType("text");
+
+                    b.Property<bool>("IsActive")
                         .HasColumnType("boolean");
 
                     b.Property<bool>("LockoutEnabled")
@@ -421,6 +413,9 @@ namespace Core.Migrations
                     b.HasIndex("Email")
                         .IsUnique();
 
+                    b.HasIndex("GuestId")
+                        .IsUnique();
+
                     b.HasIndex("NormalizedEmail")
                         .HasDatabaseName("EmailIndex");
 
@@ -429,24 +424,6 @@ namespace Core.Migrations
                         .HasDatabaseName("UserNameIndex");
 
                     b.ToTable("AspNetUsers", (string)null);
-                });
-
-            modelBuilder.Entity("Domain.AgregateModels.UserModel.UserRefreshToken", b =>
-                {
-                    b.Property<string>("UserId")
-                        .HasColumnType("text");
-
-                    b.Property<string>("Code")
-                        .IsRequired()
-                        .HasMaxLength(200)
-                        .HasColumnType("character varying(200)");
-
-                    b.Property<DateTime>("Expiration")
-                        .HasColumnType("timestamp with time zone");
-
-                    b.HasKey("UserId");
-
-                    b.ToTable("UserRefreshTokens");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
@@ -583,9 +560,15 @@ namespace Core.Migrations
 
             modelBuilder.Entity("Domain.AgregateModels.CartModel.Basket", b =>
                 {
+                    b.HasOne("Domain.AgregateModels.UserModel.Guest", "Guest")
+                        .WithMany()
+                        .HasForeignKey("GuestId");
+
                     b.HasOne("Domain.AgregateModels.UserModel.User", "User")
                         .WithMany()
                         .HasForeignKey("UserId");
+
+                    b.Navigation("Guest");
 
                     b.Navigation("User");
                 });
@@ -598,7 +581,7 @@ namespace Core.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Domain.AgregateModels.CategoriModel.Product", "Product")
+                    b.HasOne("Domain.AgregateModels.ProductModel.Product", "Product")
                         .WithMany("BasketItems")
                         .HasForeignKey("ProductId");
 
@@ -607,33 +590,33 @@ namespace Core.Migrations
                     b.Navigation("Product");
                 });
 
-            modelBuilder.Entity("Domain.AgregateModels.CategoriModel.ParentCategory", b =>
+            modelBuilder.Entity("Domain.AgregateModels.CategoriModel.Category", b =>
                 {
-                    b.HasOne("Domain.AgregateModels.CategoriModel.ParentCategory", null)
+                    b.HasOne("Domain.AgregateModels.CategoriModel.Category", "ParentCategory")
                         .WithMany("SubCategories")
                         .HasForeignKey("ParentCategoryId");
-                });
-
-            modelBuilder.Entity("Domain.AgregateModels.CategoriModel.Product", b =>
-                {
-                    b.HasOne("Domain.AgregateModels.CategoriModel.SubCategory", "SubCategory")
-                        .WithMany("Products")
-                        .HasForeignKey("SubCategoryId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("SubCategory");
-                });
-
-            modelBuilder.Entity("Domain.AgregateModels.CategoriModel.SubCategory", b =>
-                {
-                    b.HasOne("Domain.AgregateModels.CategoriModel.ParentCategory", "ParentCategory")
-                        .WithMany()
-                        .HasForeignKey("ParentCategoryId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
 
                     b.Navigation("ParentCategory");
+                });
+
+            modelBuilder.Entity("Domain.AgregateModels.ProductModel.Product", b =>
+                {
+                    b.HasOne("Domain.AgregateModels.CategoriModel.Category", "Category")
+                        .WithMany("Products")
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
+                });
+
+            modelBuilder.Entity("Domain.AgregateModels.UserModel.User", b =>
+                {
+                    b.HasOne("Domain.AgregateModels.UserModel.Guest", "Guest")
+                        .WithOne("User")
+                        .HasForeignKey("Domain.AgregateModels.UserModel.User", "GuestId");
+
+                    b.Navigation("Guest");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
@@ -692,19 +675,21 @@ namespace Core.Migrations
                     b.Navigation("BasketItems");
                 });
 
-            modelBuilder.Entity("Domain.AgregateModels.CategoriModel.ParentCategory", b =>
+            modelBuilder.Entity("Domain.AgregateModels.CategoriModel.Category", b =>
                 {
+                    b.Navigation("Products");
+
                     b.Navigation("SubCategories");
                 });
 
-            modelBuilder.Entity("Domain.AgregateModels.CategoriModel.Product", b =>
+            modelBuilder.Entity("Domain.AgregateModels.ProductModel.Product", b =>
                 {
                     b.Navigation("BasketItems");
                 });
 
-            modelBuilder.Entity("Domain.AgregateModels.CategoriModel.SubCategory", b =>
+            modelBuilder.Entity("Domain.AgregateModels.UserModel.Guest", b =>
                 {
-                    b.Navigation("Products");
+                    b.Navigation("User");
                 });
 #pragma warning restore 612, 618
         }

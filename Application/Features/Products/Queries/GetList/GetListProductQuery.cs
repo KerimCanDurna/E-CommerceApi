@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Domain.AgregateModels.CategoriModel;
 using Domain.Services.Repositories;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
@@ -28,8 +29,8 @@ namespace Application.Features.Products.Queries.GetList
             public async Task<List<GetListProductListItemDto>> Handle(GetListProductQuery request, CancellationToken cancellationToken)
             {
                 var products = await _productRepository.GetListAsync(
-                    predicate: b => b.SubCategoryId == request.CategoryId,
-                    include: c => c.Include(c => c.SubCategory),
+                    predicate: b => b.CategoryId == request.CategoryId,
+                    include: c => c.Include(c => c.Category),
                     cancellationToken: cancellationToken,
                     withDeleted: true
                     );
@@ -38,6 +39,9 @@ namespace Application.Features.Products.Queries.GetList
                 return response;
 
             }
+
+          
         }
+
     }
 }

@@ -19,12 +19,12 @@ public class UpdateProductCommand : IRequest<UpdateProductResponse>
     public int? CategoryId { get; set; }
 
    
-    public class UpdateBrandCommandHandler : IRequestHandler<UpdateProductCommand, UpdateProductResponse>
+    public class UpdateProductCommanddHandler : IRequestHandler<UpdateProductCommand, UpdateProductResponse>
     {
         private readonly IProductRepository _productRepository;
         private readonly IMapper _mapper;
 
-        public UpdateBrandCommandHandler(IProductRepository productRepository, IMapper mapper)
+        public UpdateProductCommanddHandler(IProductRepository productRepository, IMapper mapper)
         {
             _productRepository = productRepository;
             _mapper = mapper;

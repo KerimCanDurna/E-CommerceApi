@@ -1,4 +1,5 @@
-﻿using Domain.Entities;
+﻿using Domain.AgregateModels.ProductModel;
+using Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,8 +12,8 @@ namespace Domain.AgregateModels.CategoriModel
     {
         public int? ParentCategoryId { get; set; }
 
-        public virtual Category? UstCategory { get; set; }
-        public virtual ICollection<Product>? Products { get; set; }
-        public virtual ICollection<Category>? AltKategory { get; set; }
+        public virtual Category? ParentCategory { get; set; }
+        public ICollection<Category>? SubCategories { get; set; } = new List<Category>();
+        public virtual ICollection<Product>? Products { get; set; } = new List<Product>();
     }
 }

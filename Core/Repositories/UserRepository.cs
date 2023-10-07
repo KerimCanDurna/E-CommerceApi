@@ -27,6 +27,7 @@ namespace Core.Repositories
         public async Task AddAsync(Tentity entity)
         {
             await _dbSet.AddAsync(entity);
+            _context.SaveChangesAsync();
         }
 
         public async Task<IEnumerable<Tentity>> GetAllAsync()
@@ -38,6 +39,18 @@ namespace Core.Repositories
         {
             var entity = await _dbSet.FindAsync(id);
             
+            if (entity != null)
+            {
+                _context.Entry(entity).State = EntityState.Detached;
+            }
+
+            return entity;
+        }
+
+        public async Task<Tentity> GetByIdAsync(string id)
+        {
+            var entity = await _dbSet.FindAsync(id);
+
             if (entity != null)
             {
                 _context.Entry(entity).State = EntityState.Detached;

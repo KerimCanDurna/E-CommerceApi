@@ -1,23 +1,22 @@
 ﻿using Application.Features.Baskets.Commands.Create;
 using Application.Features.Baskets.Commands.Delete;
 using Application.Features.Baskets.Query.BasketQuery;
-using Application.Features.ParentCategories.Commands.Create;
+using Application.Features.SubCategories.Queries.GetbyId;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace E_CommerceApi.Controllers
 {
-   [Authorize]
+    
     [Route("api/[controller]/[action]")]
     [ApiController]
     public class BasketController : BaseController
     {
         [HttpGet]
-        public async Task<IActionResult> GetBasket()
+        public async Task<IActionResult> GetBasket (string UserId)
         {
-            var getBasketQuery = new GetBasketQuery();
-            var response = await Mediator.Send(getBasketQuery);
+            GetBasketQuery query = new() {  UserId = UserId };
+            var response = await Mediator.Send(query);
             return Ok(response);
         }
 
@@ -36,9 +35,9 @@ namespace E_CommerceApi.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> BasketToOrder()
+        public async Task<IActionResult> BasketToOrder(string Userıd  )
         {
-            var getBasketQuery = new GetBasketQuery();
+            BasketToQuer getBasketQuery = new() { UserId= Userıd };
             var response = await Mediator.Send(getBasketQuery);
             return Ok(response);
         }

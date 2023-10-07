@@ -1,4 +1,5 @@
 ﻿using Domain.AgregateModels.CategoriModel;
+using Domain.AgregateModels.ProductModel;
 using Domain.IServices.IRepositories;
 using Domain.Services.Repositories;
 

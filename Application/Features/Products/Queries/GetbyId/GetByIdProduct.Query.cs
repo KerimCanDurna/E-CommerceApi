@@ -15,12 +15,12 @@ namespace Application.Features.Products.Queries.GetbyId
     {
         public int Id { get; set; }
 
-        public class GetByIdBrandQueryHandler : IRequestHandler<GetByIdProductQuery, List<GetByIdProductResponse>>
+        public class GetByIdProductQueryHandler : IRequestHandler<GetByIdProductQuery, List<GetByIdProductResponse>>
         {
             private readonly IMapper _mapper;
             private readonly IProductRepository _productRepository;
 
-            public GetByIdBrandQueryHandler(IMapper mapper, IProductRepository brandRepository)
+            public GetByIdProductQueryHandler(IMapper mapper, IProductRepository brandRepository)
             {
                 _mapper = mapper;
                 _productRepository = brandRepository;

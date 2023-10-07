@@ -1,10 +1,7 @@
 ﻿using Core.Repositories;
-using Domain.IServices;
 
 using Domain.IServices.IRepositories;
-using Domain.IServices.ISharedIdentity;
 using Domain.Services.Repositories;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -19,11 +16,11 @@ namespace Core
           
 
             services.AddScoped<IProductRepository, ProductRepository>();
-            services.AddScoped<ISubCategoryRepository, SubCategoryRepository>();
-            services.AddScoped<IParentCategoryRepository, ParentCategoryRepository>();
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
+           
             services.AddScoped(typeof(IUserRepository<>), typeof(UserRepository<>));
             services.AddScoped(typeof (IBasketRepository<>),typeof(BasketRepository<>));
-            services.AddScoped<ISharedIdentityService, SharedIdentityService>();
+            
 
 
 

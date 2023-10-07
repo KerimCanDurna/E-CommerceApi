@@ -21,7 +21,7 @@ namespace E_CommerceApi.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetList([FromBody] int categoryID)
+        public async Task<IActionResult> GetList([FromHeader] int categoryID)
         {
             GetListProductQuery query = new() { CategoryId = categoryID };
             var  response = await Mediator.Send(query);
@@ -39,7 +39,7 @@ namespace E_CommerceApi.Controllers
         }
 
         [HttpDelete]
-        public async Task<IActionResult> Delete([FromBody] int id)
+        public async Task<IActionResult> Delete( int id)
         {
             DeleteProductResponse response = await Mediator.Send(new DeleteProductCommand { Id = id });
 

@@ -13,13 +13,9 @@ namespace Application
         public static IServiceCollection AddApplicationServices(this IServiceCollection services)
         {
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
-            services.AddScoped<UserService>();
-            services.AddScoped<CustomAuthenticationService>();
-            services.AddScoped<TokenServices>();
+            services.AddScoped<UserService>();           
+            
             services.AddScoped<BasketDto>();
-
-
-
 
 
 

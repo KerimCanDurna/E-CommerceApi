@@ -12,12 +12,15 @@ namespace Domain.AgregateModels.CartModel
     {
         public int Id { get; set; }      
         public string? UserId { get; set; }
+        public  string? GuestId { get; set; }
         virtual public bool IsActive { get; set; }
         virtual public DateTime CreatedDate { get; set; }
         virtual public DateTime ?UpdatedDate { get; set; }
 
         public User User { get; set; }
-      
+        public Guest Guest { get; set; }
+
+
         public ICollection<BasketItem> BasketItems { get; set; }
      
 

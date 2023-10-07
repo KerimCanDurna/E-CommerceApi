@@ -13,7 +13,7 @@ namespace Application.Features.Products.Commands.Create
         public string ProductDetail { get; set; }
         public decimal Price { get; set; }
         public int Stock { get; set; }
-        public int SubCategoryId { get; set; }
+        public int CategoryId { get; set; }
 
         public DateTime CreatedDate { get; set; }
     }

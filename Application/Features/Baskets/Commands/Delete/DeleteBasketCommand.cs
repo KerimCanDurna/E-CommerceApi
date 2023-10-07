@@ -2,14 +2,8 @@
 using AutoMapper;
 using Domain.AgregateModels.CartModel;
 using Domain.IServices.IRepositories;
-using Domain.IServices.ISharedIdentity;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Application.Features.Baskets.Commands.Delete
 {
@@ -18,6 +12,7 @@ namespace Application.Features.Baskets.Commands.Delete
 
 
         public int ProductId { get; set; }
+        public string UserId { get; set; }
 
 
 
@@ -26,7 +21,7 @@ namespace Application.Features.Baskets.Commands.Delete
 
         public class DeleteBasketCommandHandler : IRequestHandler<DeleteBasketCommand, BasketItemDto>
         {
-            private readonly ISharedIdentityService _sharedIdentityService;
+           
             private readonly IBasketRepository<BasketItem> _basketRepository;
             private readonly IMapper _mapper;
             private readonly IBasketRepository<Basket> _basketRepository1;
@@ -34,11 +29,11 @@ namespace Application.Features.Baskets.Commands.Delete
 
             
 
-            public DeleteBasketCommandHandler(IBasketRepository<BasketItem> basketRepository, IMapper mapper, ISharedIdentityService sharedIdentityService, IBasketRepository<Basket> basketRepository1, BasketDto basket)
+            public DeleteBasketCommandHandler(IBasketRepository<BasketItem> basketRepository, IMapper mapper, IBasketRepository<Basket> basketRepository1, BasketDto basket)
             {
                 _basketRepository = basketRepository;
                 _mapper = mapper;
-                _sharedIdentityService = sharedIdentityService;
+                
                 _basketRepository1 = basketRepository1;
                 _basket = basket;
 
@@ -48,15 +43,15 @@ namespace Application.Features.Baskets.Commands.Delete
             public async Task<BasketItemDto>? Handle(DeleteBasketCommand request, CancellationToken cancellationToken)
             {
 
-                var search = _basketRepository1.Where(x => x.IsActive == true).SingleOrDefault();
+                var search = _basketRepository1.Where(x => x.IsActive == true && x.UserId==request.UserId ||x.GuestId== request.UserId).SingleOrDefault();
 
                 if (search == null) throw new Exception("Have not Active Basket");
 
-                var basketItem = await _basketRepository.GetByIdAsync( request.ProductId);
-               
-               _basketRepository.Remove(basketItem);               
+                var basketItem = await _basketRepository.Where( x=>x.ProductId == request.ProductId && x.BasketId == search.Id).SingleOrDefaultAsync();
 
-                
+                if (basketItem == null) throw new Exception("Basket has not productID");
+               
+               _basketRepository.Remove(basketItem);                               
                 
 
                 var Response = _mapper.Map<BasketItemDto>(basketItem);

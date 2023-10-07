@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Domain.AgregateModels.CategoriModel;
+using Domain.AgregateModels.ProductModel;
 using Domain.Services.Repositories;
 using MediatR;
 using System;
@@ -17,7 +18,7 @@ public class CreateProductCommand : IRequest<CreatedProductResponse>
     public string ProductDetail { get; set; }
     public decimal Price { get; set; }
     public int Stock { get; set; }
-    public int SubCategoryId { get; set; }
+    public int CategoryId { get; set; }
 
 
 

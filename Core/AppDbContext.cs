@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
+using Domain.AgregateModels.ProductModel;
 
 namespace Core
 {
@@ -14,13 +15,13 @@ namespace Core
         {
 
         }
-        public DbSet<ParentCategory> ParentCategories { get; set; }
-        public DbSet<SubCategory> SubCategories { get; set; }
+     
+        public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<Basket> Baskets { get; set; }
         public DbSet<BasketItem> BasketItems { get; set; }
-        public DbSet<UserRefreshToken> UserRefreshTokens { get; set; }
+        
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

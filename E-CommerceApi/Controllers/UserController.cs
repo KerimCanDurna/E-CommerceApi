@@ -1,4 +1,7 @@
-﻿using Application.Features.TokenIdentity.TokenService;
+﻿using Application.Features.Products.Commands.Create;
+using Application.Features.TokenIdentity.Command.CreateUser;
+using Application.Features.TokenIdentity.Dto;
+using Application.Features.TokenIdentity.TokenService;
 using Application.TokenService.Dto;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -18,19 +21,26 @@ namespace E_CommerceApi.Controllers
             _userService = userService;
         }
 
-        //api/user
-        [HttpPost ("[Action]")]
-        public async Task<IActionResult> RegisterUser( CreateUserDto createUserDto)
+        [HttpPost("[Action]")]
+        public async Task<IActionResult> LoginUSer(LoginDto loginDto)
         {
-            return ActionResultInstance(await _userService.CreateUserAsync(createUserDto));
+            return ActionResultInstance(await _userService.LoginUser(loginDto));
         }
 
-        [Authorize]
-        [HttpGet("[Action]")]
-        public async Task<IActionResult> GetUser()
+        [HttpPost("[Action]")]
+        public async Task<IActionResult> LoginGuest(string guestId)
         {
-            return ActionResultInstance(await _userService.GetUserByNameAsync(HttpContext.User.Identity.Name));
+            return ActionResultInstance(await _userService.LoginGuest(guestId));
         }
+
+        //api/user
+        [HttpPost ("[Action]")]
+        public async Task<IActionResult> RegisterUser( CreateUser createUserDto)
+        {
+            var response = await Mediator.Send(createUserDto);
+            return Ok(response);
+        }
+
     }
 }
 

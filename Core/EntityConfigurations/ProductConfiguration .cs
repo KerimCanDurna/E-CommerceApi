@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Domain.AgregateModels.CategoriModel;
+using Domain.AgregateModels.ProductModel;
 
 namespace Core.EntityConfigurations
 {
@@ -21,7 +22,7 @@ namespace Core.EntityConfigurations
             builder.Property(b => b.UpdatedDate).HasColumnName("UpdatedDate");
             builder.Property(b => b.DeletedDate).HasColumnName("DeletedDate");
             builder.Property(b => b.ProductDetail).HasColumnName("ProductDetail").IsRequired();
-            builder.Property(b => b.SubCategoryId).HasColumnName("SubCategoryId").IsRequired();
+            builder.Property(b => b.CategoryId).HasColumnName("CategoryId").IsRequired();
             builder.Property(b => b.Price).HasColumnName("Price").IsRequired().HasColumnType("decimal(18,2)");
             builder.Property(b => b.Stock).HasColumnName("Stock").IsRequired();
 

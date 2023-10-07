@@ -13,7 +13,7 @@ namespace Application.Features.Products.Queries.GetList
         public string ProductDetail { get; set; }
         public decimal Price { get; set; }
         public int Stock { get; set; }
-        public string SubCategoryName { get; set; }
+        public string CategoryName { get; set; }
         public DateTime CreatedDate { get; set; }
     }
 }
