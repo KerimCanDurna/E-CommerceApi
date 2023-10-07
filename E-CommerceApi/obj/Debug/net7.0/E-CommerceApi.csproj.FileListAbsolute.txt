@@ -1,0 +1,439 @@
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.csproj.AssemblyReference.cache
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.AssemblyInfoInputs.cache
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.AssemblyInfo.cs
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.csproj.CoreCompileInputs.cache
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\refint\E-CommerceApi.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.pdb
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\appsettings.json
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.exe
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.deps.json
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.runtimeconfig.json
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.pdb
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\EntityFrameworkCore.Query.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\MediatR.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Npgsql.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Application.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Core.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Domain.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Shared.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Application.pdb
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Core.pdb
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Domain.pdb
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Shared.pdb
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.E-CommerceApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.build.E-CommerceApi.props
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-CommerceApi.props
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-CommerceApi.props
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\scopedcss\bundle\E-CommerceApi.styles.css
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.csproj.CopyComplete
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.genruntimeconfig.cache
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\ref\E-CommerceApi.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.csproj.AssemblyReference.cache
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.AssemblyInfoInputs.cache
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.AssemblyInfo.cs
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.csproj.CoreCompileInputs.cache
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\refint\E-CommerceApi.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.pdb
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\appsettings.json
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.exe
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.deps.json
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.runtimeconfig.json
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.pdb
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\EntityFrameworkCore.Query.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\MediatR.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Npgsql.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Application.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Core.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Domain.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Shared.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Application.pdb
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Core.pdb
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Domain.pdb
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Shared.pdb
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.E-CommerceApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.build.E-CommerceApi.props
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-CommerceApi.props
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-CommerceApi.props
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\scopedcss\bundle\E-CommerceApi.styles.css
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.csproj.CopyComplete
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.genruntimeconfig.cache
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\ref\E-CommerceApi.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\appsettings.json
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.exe
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.deps.json
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.runtimeconfig.json
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.pdb
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\EntityFrameworkCore.Query.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\MediatR.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Npgsql.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Application.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Core.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Domain.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Shared.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Application.pdb
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Shared.pdb
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Core.pdb
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Domain.pdb
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.csproj.AssemblyReference.cache
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.AssemblyInfoInputs.cache
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.AssemblyInfo.cs
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.csproj.CoreCompileInputs.cache
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.E-CommerceApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.build.E-CommerceApi.props
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-CommerceApi.props
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-CommerceApi.props
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\scopedcss\bundle\E-CommerceApi.styles.css
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.csproj.CopyComplete
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\refint\E-CommerceApi.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.pdb
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.genruntimeconfig.cache
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\ref\E-CommerceApi.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\appsettings.json
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.exe
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.deps.json
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.runtimeconfig.json
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.pdb
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\EntityFrameworkCore.Query.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\MediatR.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Npgsql.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Application.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Core.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Domain.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Shared.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Application.pdb
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Shared.pdb
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Core.pdb
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Domain.pdb
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.csproj.AssemblyReference.cache
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.AssemblyInfoInputs.cache
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.AssemblyInfo.cs
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.csproj.CoreCompileInputs.cache
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.E-CommerceApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.build.E-CommerceApi.props
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-CommerceApi.props
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-CommerceApi.props
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\scopedcss\bundle\E-CommerceApi.styles.css
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.csproj.CopyComplete
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\refint\E-CommerceApi.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.pdb
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.genruntimeconfig.cache
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\ref\E-CommerceApi.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\appsettings.json
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.exe
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.deps.json
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.runtimeconfig.json
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\E-CommerceApi.pdb
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\EntityFrameworkCore.Query.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\MediatR.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Npgsql.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Application.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Core.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Domain.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Shared.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Application.pdb
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Shared.pdb
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Core.pdb
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\bin\Debug\net7.0\Domain.pdb
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.csproj.AssemblyReference.cache
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.AssemblyInfoInputs.cache
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.AssemblyInfo.cs
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.csproj.CoreCompileInputs.cache
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.E-CommerceApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.build.E-CommerceApi.props
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-CommerceApi.props
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-CommerceApi.props
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\scopedcss\bundle\E-CommerceApi.styles.css
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.csproj.CopyComplete
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\refint\E-CommerceApi.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.pdb
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\E-CommerceApi.genruntimeconfig.cache
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\E-CommerceApi\obj\Debug\net7.0\ref\E-CommerceApi.dll

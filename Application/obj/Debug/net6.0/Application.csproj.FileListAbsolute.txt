@@ -1,0 +1,118 @@
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\bin\Debug\net6.0\Application.dll
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\bin\Debug\net6.0\Core.dll
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\bin\Debug\net6.0\Shared.dll
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\bin\Debug\net6.0\Core.pdb
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\bin\Debug\net6.0\Shared.pdb
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\obj\Debug\net6.0\Application.dll
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\drnak\Desktop\E-CommerceApi\E-CommerceApi\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\bin\Debug\net6.0\Application.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\bin\Debug\net6.0\Core.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\bin\Debug\net6.0\Shared.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\bin\Debug\net6.0\Core.pdb
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\bin\Debug\net6.0\Shared.pdb
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\obj\Debug\net6.0\Application.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\drnak\Desktop\Ecommerce yedek\E-CommerceApi\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\bin\Debug\net6.0\Application.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\bin\Debug\net6.0\Core.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\bin\Debug\net6.0\Shared.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\bin\Debug\net6.0\Core.pdb
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\bin\Debug\net6.0\Shared.pdb
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\obj\Debug\net6.0\Application.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\drnak\Desktop\EcommercyYEdek2\E-CommerceApi\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\bin\Debug\net6.0\Application.runtimeconfig.json
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\bin\Debug\net6.0\Application.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\bin\Debug\net6.0\Core.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\bin\Debug\net6.0\Shared.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\bin\Debug\net6.0\Core.pdb
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\bin\Debug\net6.0\Shared.pdb
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\obj\Debug\net6.0\Application.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\obj\Debug\net6.0\Application.genruntimeconfig.cache
+C:\Users\drnak\Desktop\Ecommercy Apı\E-CommerceApi\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\bin\Debug\net6.0\Application.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\bin\Debug\net6.0\Core.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\bin\Debug\net6.0\Shared.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\bin\Debug\net6.0\Core.pdb
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\bin\Debug\net6.0\Shared.pdb
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\obj\Debug\net6.0\Application.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\drnak\Desktop\EcommercyUpdate\E-CommerceApi\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\bin\Debug\net6.0\Application.deps.json
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\bin\Debug\net6.0\Application.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\bin\Debug\net6.0\Application.pdb
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\bin\Debug\net6.0\Core.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\bin\Debug\net6.0\Domain.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\bin\Debug\net6.0\Shared.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\bin\Debug\net6.0\Core.pdb
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\bin\Debug\net6.0\Shared.pdb
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\bin\Debug\net6.0\Domain.pdb
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\obj\Debug\net6.0\Application.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\obj\Debug\net6.0\Application.pdb
+C:\Users\drnak\Desktop\ECommercy-UpdateIdentity\E-CommerceApi\Application\obj\Debug\net6.0\ref\Application.dll
